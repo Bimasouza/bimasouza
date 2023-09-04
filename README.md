@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi!! Tudo bem? Eu sou o 
+    Olá!!  Eu sou o Abimael de Souza, Estudando Front-End
     <a href="https://https://www.linkedin.com/in/abimael-de-souza-5896901a2/">Abimael de Souza 😃️</a>
   </h1>
   
