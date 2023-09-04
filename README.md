@@ -1,22 +1,17 @@
-<Style>
-.texto{
-  color: black
-}
-</Style>
 
 <div>
   
-  <h1 align="center" class="texto">
-    Um jovem que se apaixonou pela área de programação, ao abrir uma loja de dropshipping, e pagar um valor para um programador fazer uma alteração de um ícone no meu site, observei a agilidade dele, e que não era díficil, a partir daquele momento, comecei a pesquisar mais sobre a área, e fazer algumas alterações na minha loja por conta própria, e vi que estava obtendo resultados, foi então, que resolvi entrar na área de Desenvolvimento, e atualmente estou cursando a faculade de ADS, estou no segundo Semestre
+  <h1 align="center">
+   Olá!! me Chamo Abimael de Souza
   </h1>
   
   <p align="center">
-    Sou Estudante de Análise e Desenvolvimento de Sistemas
+    Seja bem vindo!!
     </a>  
   </p>
   
   <p align="center">
-    você só vence amanhã, se não desistir hoje ! Seja Bem vindo! 😉️
+   
   </p>
   
 </div>
