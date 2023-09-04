@@ -10,16 +10,12 @@
     </a>  
   </p>
   
-  <p align="center">
-   
-  </p>
-  
 </div>
 
 <div align="center">
   <a href="https://github.com/bimasouza">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_blue_icons=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimasouza&theme=shadow_blue_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent_icons=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimasouza&theme=transparent_border=false&&layout=compact"/>
   </a>
 </div>
 
